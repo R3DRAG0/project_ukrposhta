@@ -338,9 +338,9 @@ p {
   }
 }
 
-@media screen and (max-width: 430px){
+@media screen and (max-width: 470px){
   .main__buttons__btn{
-    padding: 25px 10px;
+    padding: 25px 8px;
   }
 
   h2{
