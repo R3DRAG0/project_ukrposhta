@@ -278,6 +278,14 @@ p {
 
 @media screen and (max-width: 992px){
 
+  .navbar{
+    background: #FFF;
+    position: static;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+  }
+
   .services__text h2, .text-white, .main__subtitle, .finance__text h2{
     text-align: center;
   }
